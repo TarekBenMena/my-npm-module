@@ -1,0 +1,22 @@
+{
+  "name": "tbmodule",
+  "version": "1.0.0",
+  "description": "creation and publish of my first module on npm ",
+  "main": "mesModules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/TarekBenMena/my-npm-module.git"
+  },
+  "keywords": [
+    "tay"
+  ],
+  "author": "Tarek Ben Mena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TarekBenMena/my-npm-module/issues"
+  },
+  "homepage": "https://github.com/TarekBenMena/my-npm-module#readme"
+}
